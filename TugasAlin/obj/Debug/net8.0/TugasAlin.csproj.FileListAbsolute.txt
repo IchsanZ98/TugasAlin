@@ -1,0 +1,15 @@
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\bin\Debug\net8.0\TugasAlin.exe
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\bin\Debug\net8.0\TugasAlin.deps.json
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\bin\Debug\net8.0\TugasAlin.runtimeconfig.json
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\bin\Debug\net8.0\TugasAlin.dll
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\bin\Debug\net8.0\TugasAlin.pdb
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.AssemblyInfoInputs.cache
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.AssemblyInfo.cs
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.csproj.CoreCompileInputs.cache
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.sourcelink.json
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.dll
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\refint\TugasAlin.dll
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.pdb
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\TugasAlin.genruntimeconfig.cache
+C:\Users\Maruf\Documents\GitHub\TugasAlin\TugasAlin\obj\Debug\net8.0\ref\TugasAlin.dll
